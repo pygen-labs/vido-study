@@ -16,7 +16,7 @@ Transform YouTube videos into organized study materials with notes, moments, and
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/vido-study.git
+git clone https://github.com/pygen-labs/vido-study.git
 cd vido-study
 \`\`\`
 
